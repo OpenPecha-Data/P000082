@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000082
+initial_creation_type: ebook
+source_metadata:
   title: ༁ྃ༔ དམ་ཆོས་སྙིང་པོ་སྐོར་ལྔ་ལས༔ ཞལ་གདམས་སྙིང་པོ་འདུས་པ་བཞུགས་སོ༔
   authors:
   - མཛད་པ་པོ། གཏེར་ཆེན་མཆོག་གྱུར་གླིང་པ།
-  sku: SHE-RTD-021
   layers:
   - book_title
   - author
+  id: SHE-RTD-021
 web_metadata:
   title:
     en: A Collection of Advice from Guru Rinpoche’s Five Quintessential Dharmas
